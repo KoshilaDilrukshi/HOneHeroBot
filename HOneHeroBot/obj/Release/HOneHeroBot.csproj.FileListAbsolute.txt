@@ -1,0 +1,64 @@
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Bot Application.dll.config
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Bot Application.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Bot Application.pdb
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Autofac.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Chronic.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.Bot.Builder.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.Bot.Connector.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Newtonsoft.Json.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\System.Net.Http.Formatting.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\System.Web.Http.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\System.Web.Http.WebHost.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Autofac.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.Bot.Builder.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.Bot.Connector.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Newtonsoft.Json.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\System.Net.Http.Formatting.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\System.Web.Http.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\System.Web.Http.WebHost.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\obj\Release\HOneHeroBot.csprojResolveAssemblyReference.cache
+C:\Projects\HOneHeroBot\HOneHeroBot\obj\Release\Bot Application.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\obj\Release\Bot Application.pdb
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.IdentityModel.Logging.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\QnAMakerDialog.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.IdentityModel.Logging.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Projects\HOneHeroBot\HOneHeroBot\bin\Microsoft.Bot.Connector.DirectLine.dll
